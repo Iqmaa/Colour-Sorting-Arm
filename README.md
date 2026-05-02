@@ -2,7 +2,9 @@
 
 Used ROS2, gazebo, and Moveit to program an franka panda robot arm model to recognise blocks of different colours and move them to a bin autonomously using opencv.
 
-<img width="600" alt="image" src="/Media/panda1.png" />
+|     |     |
+| :---: | :---: |
+| ![panda1](https://github.com/Iqmaa/Colour-Sorting-Arm/blob/main/Media/panda1.png?raw=true)  | ![panda2](https://github.com/Iqmaa/Colour-Sorting-Arm/blob/main/Media/panda2.png?raw=true) /> |
 
 
 ### How to Run
