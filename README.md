@@ -32,7 +32,7 @@ Used ROS2, gazebo, and Moveit to program an franka panda robot arm model to reco
    ```
    ros2 run pymoveit2 pick_and_place.py --ros-args -p target_color:=B
    ```
-   with your desured colour to rerun the operation.
+   with your desired colour to rerun the operation.
 
 [colour_sorting_arm.webm](https://github.com/user-attachments/assets/4a875368-fbba-408e-9891-9ec3122fc112)
 
