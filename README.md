@@ -4,7 +4,7 @@ Used ROS2, gazebo, and Moveit to program an franka panda robot arm model to reco
 
 |     |     |
 | :---: | :---: |
-| ![panda1](https://github.com/Iqmaa/Colour-Sorting-Arm/blob/main/Media/panda1.png?raw=true)  | ![panda2](https://github.com/Iqmaa/Colour-Sorting-Arm/blob/main/Media/panda2.png?raw=true) /> |
+| ![panda1](https://github.com/Iqmaa/Colour-Sorting-Arm/blob/main/Media/panda1.png?raw=true)  | ![panda2](https://github.com/Iqmaa/Colour-Sorting-Arm/blob/main/Media/panda2.png?raw=true) |
 
 
 ### How to Run
